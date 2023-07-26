@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NameApp</string>
+    <string name="view_offer">View Offers</string>
+    <string name="enter_name">enter name</string>
+    <string name="sumbit">sumbit</string>
+    <string name="android_developer">android_developer</string>
+</resources>

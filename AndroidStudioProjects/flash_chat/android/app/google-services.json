@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588755309687",
+    "project_id": "fast-chat-600eb",
+    "storage_bucket": "fast-chat-600eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588755309687:android:26ed452960af5fd6222272",
+        "android_client_info": {
+          "package_name": "com.khurram.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588755309687-7h95civd366r6ocjkrrqsjdb2b65ufaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaHFT9ovqkQkGE8uaDGNJrXxV5wCo9IyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588755309687-7h95civd366r6ocjkrrqsjdb2b65ufaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
